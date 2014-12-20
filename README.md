@@ -1,4 +1,4 @@
-EDA031_C-
+EDA031
 =========
-
-C++ project 
+C++ course. 
+Labs and Project
